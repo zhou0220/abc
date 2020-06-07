@@ -1,5 +1,7 @@
 ##############################################################################
+
 ABC with Miyasaka version.
+
 ##############################################################################
 Please send email to miyasaka@cad.t.u-tokyo.ac.jp for questions or comments
  - The command of bdd construction using the simple BDD package is "&bdd".
